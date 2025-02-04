@@ -1,53 +1,49 @@
-# Relatório de Importação para Capacetes de Moto, Bicicleta e Automobilismo
-
 # 🚀 Boleto Interno
 
-![Static Badge](https://img.shields.io/badge/status-Active-gren?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/coverage-0-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/.NET-4.8-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/production-IIODIWINPRD01-gren?style=for-the-badge)
 
 ## 📋 Descrição
 
-O objetivo deste projeto é imprimir de forma automática os boletos contidos na tabela F55BOLET
+O objetivo deste repositório é armazenar arquivos excel(.xlsx), dos Importadores de Capacete de Moto, Bicicleta, Automobilismo e Extras.
  
 ## 💻 Pré Requisitos
 
-Para utilizar o projeto é necessário ter instalado em sua máquina:
-
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
-
-> Certifique-se de incluir a carga de trabalho ".NET desktop development" durante a instalação.
-
-- [Oracle Client](https://www.oracle.com/br/database/technologies/instant-client/downloads.html)
+Este repositório será usado no site: 
+-> [Google Colab](https://colab.research.google.com/)
 
 ## 🛠️ Instalando e Rodando
 
-1. Clone o sistema para seu ambiente com: `git clone https://github.com/starplast/boleto-interno.git`
+1. Abrir o Google Colab e escolher qual Notebook será utilizado:
 
-2. Abrir o Projeto no Visual Studio:
+   Importação de Capacetes de Moto
+   Importação de Capacetes de Bicicleta
+   Importação de Capacetes de Automobilismo
 
-   Abra o Visual Studio.
-   No menu, vá para `File -> Open -> Project/Solution`.
-   Navegue até a pasta do seu projeto e selecione o arquivo de solução (.sln).
+2. Abrir o Notebook e se conectar na rede para execução:
 
-3. Restaurar Pacotes NuGet:
+   Clicar no botão 'Conectar' na parte direita do Colab
 
-   No Visual Studio, vá para `View -> Solution Explorer`.
-   Botão direito no projeto no Solution Explorer e selecione Restore NuGet Packages.
+3. Abrir a opção 'Arquivos', um ícone na forma de uma pasta, na parte esquerda:
 
-4. Configurar o Projeto Principal:
+   Dentro de 'Arquivos', clicar na opção 'Fazer upload para o armazenamento da sessão', um ícone na forma de um arquivo em upload
 
-   Se o seu projeto tiver múltiplos projetos, certifique-se de que o projeto principal (geralmente um projeto com extensão .exe para aplicativos de console ou .csproj para outros tipos) está definido como o projeto de inicialização. Você pode fazer isso clicando com o botão direito no projeto e selecionando Set as StartUp Project.
-   Executar o Projeto:
+4. Upload de arquivos do computador do usuário:
 
-5. Crie uma pasta que irá receber os Logs de erro do programa.
+   Do computador do usuário, abrirá os arquivos e neste deverá ser escolhida a base bruta das importações, arquivo Excel, 'Relatório de Importação' ou nome que corresponda a essa base
 
-6. Crie uma pasta onde os boletos serão armazenados até serem impressos.
+5. O Notebook estará divido em:
 
-7. Pressione F5 ou vá para `Debug -> Start Debugging` para executar o projeto.
+   Bibliotecas: compõe todas as bibliotecas utilizadas para execução do programa
+   Importação: compõe a chamda dos importadores
+   Código: a execução principal do código
 
-**Atenção** A biblioteca que BoletoNet gera arquivos .tmp no %TEMP% da maquina, assim quando chega no limite de 65.000 e não for limpo a aplicação da um erro de arquivo existente e não imprime os boletos seguintes, para resolver isso no server alocado, existe uma pasta que contém um .bat para remover todos os arquivos diariamente.
+6. No Notebook, na divisão 'Importação':
+
+   A linha de código indicada terá uma variável, está armazena o link que está no Github, o link terá o seguinte padrão: [Link](https://raw.githubusercontent.com/FredericoCS1/Importacoes/main/Importadores/importadoresMoto.xlsx)
+   Explicação:
+   -> O link é uma URL, contendo 'raw.githubusercontent.com' que é padrão para que possa ser usado dentro do Colab
+   -> /FredericoCS1 é o nome do responsável pela criação do repositório, no qual o link está armazenado
+   -> /Importacoes/main/Importadores/importadoresMoto.xlsx é o caminho do link
+   -> Importacoes é o nome do repositório, que posseui um main branch, que armazena a pasta Importadores, contendo o arquivo importadoresMoto.xlsx, que é um arquivo Excel que foi baixado.
 
 ## 📫 Contribuindo
 
