@@ -35,16 +35,23 @@ Este repositório será usado no site:
 6. O Notebook estará divido em:
 
    Bibliotecas: compõe todas as bibliotecas utilizadas para execução do programa
+   
    Importação: compõe a chamda dos importadores
+   
    Código: a execução principal do código
 
-7. No Notebook, na divisão 'Importação':
+8. No Notebook, na divisão 'Importação':
 
    A linha de código indicada terá uma variável, está armazena o link que está no Github, o link terá o seguinte padrão: [Link](https://raw.githubusercontent.com/FredericoCS1/Importacoes/main/Importadores/importadoresMoto.xlsx)
+   
    Explicação:
+
    -> O link é uma URL, contendo 'raw.githubusercontent.com' que é padrão para que possa ser usado dentro do Colab
+
    -> /FredericoCS1 é o nome do responsável pela criação do repositório, no qual o link está armazenado
+
    -> /Importacoes/main/Importadores/importadoresMoto.xlsx é o caminho do link
+
    -> Importacoes é o nome do repositório, que posseui um main branch, que armazena a pasta Importadores, contendo o arquivo importadoresMoto.xlsx, que é um arquivo Excel que foi baixado.
 
 ## 📫 Contribuindo
