@@ -11,7 +11,7 @@ Este repositório será usado no site: [Google Colab](https://colab.research.goo
 
 ## 🛠️ Instalando e Rodando
 
-Relatório explicado a execução do programa: [Passo a Passo](Google Colab.docx)
+Relatório explicado a execução do programa: Google Colab.docx
 
 ## 📫 Contribuindo
 
