@@ -7,8 +7,7 @@ O objetivo deste repositório é armazenar arquivos excel(.xlsx), dos Importador
  
 ## 💻 Pré Requisitos
 
-Este repositório será usado no site: 
--> [Google Colab](https://colab.research.google.com/)
+Este repositório será usado no site: [Google Colab](https://colab.research.google.com/)
 
 ## 🛠️ Instalando e Rodando
 
