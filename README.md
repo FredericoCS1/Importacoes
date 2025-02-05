@@ -11,7 +11,7 @@ Este repositório será usado no site: [Google Colab](https://colab.research.goo
 
 ## 🛠️ Instalando e Rodando
 
-Relatório explicado a execução do programa: 
+Relatório explicado a execução do programa [Google Colaboratory](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx) 
 
 ## 📫 Contribuindo
 
