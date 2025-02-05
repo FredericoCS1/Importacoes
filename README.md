@@ -12,53 +12,7 @@ Este repositório será usado no site:
 
 ## 🛠️ Instalando e Rodando
 
-1. Abrir o Google Colab e escolher qual Notebook será utilizado:
 
-   Importação de Capacetes de Moto
-   
-   Importação de Capacetes de Bicicleta
-   
-   Importação de Capacetes de Automobilismo
-
-3. Abrir o Notebook e se conectar na rede para execução:
-
-   Clicar no botão 'Conectar' na parte direita do Colab
-
-4. Abrir a opção 'Arquivos', um ícone na forma de uma pasta, na parte esquerda:
-
-   Dentro de 'Arquivos', clicar na opção 'Fazer upload para o armazenamento da sessão', um ícone na forma de um arquivo em upload
-
-5. Upload de arquivos do computador do usuário:
-
-   Do computador do usuário, abrirá os arquivos e neste deverá ser escolhida a base bruta das importações, arquivo Excel, 'Relatório de Importação' ou nome que corresponda a essa base
-
-6. O Notebook estará divido em:
-
-   Bibliotecas: compõe todas as bibliotecas utilizadas para execução do programa
-   
-   Importação: compõe a chamda dos importadores
-   
-   Código: a execução principal do código
-
-8. No Notebook, na divisão 'Importação':
-
-   A linha de código indicada terá uma variável, está armazena o link que está no Github, o link terá o seguinte padrão: 'https://raw.githubusercontent.com/FredericoCS1/Importacoes/main/Importadores/importadoresMoto.xlsx'
-   
-   Explicação:
-
-   -> O link é uma URL, contendo 'raw.githubusercontent.com', é o padrão para ser utilizado no Colab
-
-   -> /FredericoCS1 é o nome do responsável pela criação do repositório, no qual o arquivo será armazenado
-
-   -> /Importacoes/main/Importadores/importadoresMoto.xlsx é o caminho para o arquivo
-
-   -> Importacoes é o nome do repositório, que posseui um main branch, que armazena a pasta Importadores, contendo o arquivo importadoresMoto.xlsx, que é um arquivo Excel baixado.
-
-9. Finalizando:
-
-   Após baixar o arquivo bruto, 'Relatório de Imporatação, rodar as Bibliotecas e os Importadores, é só rodar o código.
-
-   No código, terão sessões no formato: 'dfRes_final.to_excel('Relatório de Importação de Capacetes de Moto Final.xlsx', index=False)', essas irão trasnformar o código em arquivo Excel. Este arquivo será armazenado na parte esquerda, na sessão de arquivos, para ser baixado e utilizado livremente.
 
 ## 📫 Contribuindo
 
