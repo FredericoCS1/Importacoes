@@ -15,28 +15,30 @@ Este repositório será usado no site:
 1. Abrir o Google Colab e escolher qual Notebook será utilizado:
 
    Importação de Capacetes de Moto
+   
    Importação de Capacetes de Bicicleta
+   
    Importação de Capacetes de Automobilismo
 
-2. Abrir o Notebook e se conectar na rede para execução:
+3. Abrir o Notebook e se conectar na rede para execução:
 
    Clicar no botão 'Conectar' na parte direita do Colab
 
-3. Abrir a opção 'Arquivos', um ícone na forma de uma pasta, na parte esquerda:
+4. Abrir a opção 'Arquivos', um ícone na forma de uma pasta, na parte esquerda:
 
    Dentro de 'Arquivos', clicar na opção 'Fazer upload para o armazenamento da sessão', um ícone na forma de um arquivo em upload
 
-4. Upload de arquivos do computador do usuário:
+5. Upload de arquivos do computador do usuário:
 
    Do computador do usuário, abrirá os arquivos e neste deverá ser escolhida a base bruta das importações, arquivo Excel, 'Relatório de Importação' ou nome que corresponda a essa base
 
-5. O Notebook estará divido em:
+6. O Notebook estará divido em:
 
    Bibliotecas: compõe todas as bibliotecas utilizadas para execução do programa
    Importação: compõe a chamda dos importadores
    Código: a execução principal do código
 
-6. No Notebook, na divisão 'Importação':
+7. No Notebook, na divisão 'Importação':
 
    A linha de código indicada terá uma variável, está armazena o link que está no Github, o link terá o seguinte padrão: [Link](https://raw.githubusercontent.com/FredericoCS1/Importacoes/main/Importadores/importadoresMoto.xlsx)
    Explicação:
