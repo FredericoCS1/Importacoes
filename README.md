@@ -47,7 +47,7 @@ Para realizar o deploy da aplicação em produção siga os seguintes passos:
    
    -> Atenção: não mudar o nome do arquivo xlsx.
    
-   -> Ao final, fazer o commit nos arquivos.
+   -> Ao final, fazer commit nos arquivos dentro da pasta 'Importadores'.
 
 ## 📜 Licença 
 
