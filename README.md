@@ -17,7 +17,7 @@ Relatório explicado a execução do programa [Passo a Passo - Google Colaborato
 
 Para contribuir, siga estas etapas:
 
-1. Verificar os arquivos, xlsx, na pasta 'Importadores', toda vez que um novo Relatório de Importação for analizado.
+1. Verificar os arquivos, xlsx, na pasta 'Importadores', toda vez que um novo 'Relatório de Importação' for analizado.
    
 2. O arquivo, xlsx, deve ser baixado e alterado.
 
@@ -31,7 +31,7 @@ Para realizar o deploy da aplicação em produção siga os seguintes passos:
    
    -> Existem 3 arquivos, xlsx, que são usados no programa do Colab.
    
-   -> Para cada novo Relatório de Importação, os arquivos de 'Importadores' devem ser verificados.
+   -> Para cada novo 'Relatório de Importação', os arquivos de 'Importadores' devem ser verificados.
    
 3. Baixar os arquivos:
    
