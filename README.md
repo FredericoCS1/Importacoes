@@ -3,11 +3,19 @@
 
 ## 📋 Descrição
 
-O objetivo deste repositório é armazenar arquivos excel(.xlsx), dos Importadores de Capacete de Moto, Bicicleta, Automobilismo e Extras.
+O objetivo deste repositório:
+
+-> Armazenar arquivos excel(.xlsx), dos Importadores de Capacete de Moto, Bicicleta, Automobilismo e Extras.
+
+-> Armazenar os Colabs, Importação Capecete Moto, Importação Capacete Bicicleta e Importação Capacete Automobilismo.
  
 ## 💻 Pré Requisitos
 
 Este repositório será usado no site: [Google Colab](https://colab.research.google.com/)
+
+O arquivo bruto 'Relatório de Importação', que pode estar com outro nome.
+
+Os Colabs, que estarão na pasta 'Notebooks' aqui no repositório.
 
 ## 🛠️ Instalando e Rodando
 
