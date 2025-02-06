@@ -17,24 +17,31 @@ Relatório explicado a execução do programa [Passo a Passo - Google Colaborato
 
 Para contribuir, siga estas etapas:
 
-1. Dentro do repositório 'Importacoes', acessar a pasta 'Importadores'.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_branch>`
-5. Crie a solicitação de pull.
+1. Verificar os arquivos, xlsx, na pasta Importadores, toda vez que um novo Relatório de Importação for analizado.
+   
+2. O arquivo, xlsx, deve ser baixado e alterado.
 
 ## 🏁 Realizando Deploy
 
 Para realizar o deploy da aplicação em produção siga os seguintes passos:
 
-1. Confirme se os métodos de deploy estão em "Debug" e "x64" em `Compilação > Gerenciador de Configurações`
+1. Arquivos de Importadores:
    
-2. Gere os arquivos de deploy em `Compilação > Compilar Solução`
+   -> Dentro do repositório 'Importacoes', acessar a pasta 'Importadores'.
+   -> Existem 3 arquivos, xlsx, que são usados no programa do Colab.
+   -> Para cada novo Relatório de Importação, os arquivos de 'Importadores' devem ser verificados.
    
-   Os arquivos de deploy serão gerados e armazenados em `BoletoTeste\bin\x64\Debug\app.publish`
+2. Baixar os arquivos:
    
-3. Pegue todos os arquivos e coloque na pasta `C:/Applications/boleto-interno9.2` no servidor de produção.
+   -> Baixar o arquivo que será utilizado, e mudar caso necessário.
+   -> A mudança será feita no Excel, manualmente.
+   
+3. Atualizar Github:
 
-> Para que o programa rode de acordo, é necessário sempre dexar ele aberto para imprimir os boletos periodicamente.
+   -> Os arquivos modificados devem substituir os antigos.
+   -> Acessar a pasta 'Importadores' excluir o arquivo antigo e subir o novo.
+   -> Atenção: não mudar o nome do arquivo xlsx.
+   -> Ao final, fazer o commit nos arquivos.
 
 ## 📜 Licença 
 
