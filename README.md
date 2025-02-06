@@ -29,7 +29,7 @@ Para realizar o deploy da aplicação em produção siga os seguintes passos:
    
    -> Dentro do repositório 'Importacoes', acessar a pasta 'Importadores'.
    
-   -> Existem 3 arquivos, xlsx, que são usados no programa do Colab.
+   -> Existem 4 arquivos, xlsx, que são usados no programa do Colab.
    
    -> Para cada novo 'Relatório de Importação', os arquivos de 'Importadores' devem ser verificados.
    
