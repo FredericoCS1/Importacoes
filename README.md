@@ -17,7 +17,7 @@ Relatório explicado a execução do programa [Passo a Passo - Google Colaborato
 
 Para contribuir, siga estas etapas:
 
-1. Crie uma branch a partir da branch principal: `git checkout -b <nome_branch>`.
+1. Dentro do repositório 'Importacoes', acessar a pasta 'Importadores'.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original: `git push origin <nome_branch>`
 5. Crie a solicitação de pull.
