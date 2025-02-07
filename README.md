@@ -21,9 +21,11 @@ Sites para ajuda:
 
 -> [Pandas](https://pandas.pydata.org/docs/index.html)
 
--> [Python - 3Schools](https://www.w3schools.com/python/default.asp)
+-> [AST - Biblioteca](https://docs.python.org/3/library/ast.html)
 
 -> [Python - Docs](https://docs.python.org/3/)
+
+-> [Python - 3Schools](https://www.w3schools.com/python/default.asp)
 
 ## 🛠️ Instalando e Rodando
 
