@@ -29,9 +29,9 @@ Sites para ajuda:
 
 ## 🛠️ Instalando e Rodando
 
-Para rodar o programa, será necessário o arquivo bruto 'Relatório de Importação', este será disponibilizado por fora.
+Baixar o arquivo bruto na máquina e utilizar no Colab.
 
-Os arquivos em 'Importadores' devem ser verificados, para isso, enviar esses ao responsável que disponibilizou o arquivo bruto 'Relatório de Importação'.
+Arquivos em 'Importadores', xlsx, verificados para serem usados no código.
 
 Relatório explicado a execução do programa [Passo a Passo - Google Colaboratory](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx)
 
@@ -39,9 +39,14 @@ Relatório explicado a execução do programa [Passo a Passo - Google Colaborato
 
 Para contribuir, siga estas etapas:
 
-1. Verificar os arquivos, xlsx, na pasta 'Importadores', toda vez que um novo 'Relatório de Importação' for analizado.
+1. Para rodar o programa, será necessário o arquivo bruto 'Relatório de Importação', este será disponibilizado por fora.
+2. Verificar os arquivos, xlsx, na pasta 'Importadores', toda vez que um novo 'Relatório de Importação' for analizado.
    
-2. O arquivo, xlsx, deve ser baixado e alterado.
+4. O arquivo, xlsx, deve ser baixado e alterado.
+
+5. 
+
+Os arquivos em 'Importadores' devem ser verificados, para isso, enviar esses ao responsável que disponibilizou o arquivo bruto 'Relatório de Importação'.
 
 ## 🏁 Realizando Deploy
 
