@@ -17,6 +17,14 @@ O arquivo bruto 'Relatório de Importação', que pode estar com outro nome, que
 
 Os Colabs, situados na pasta 'Notebooks' aqui no repositório.
 
+Sites para ajuda: 
+
+-> [Pandas](https://pandas.pydata.org/docs/index.html)
+
+-> [Python - 3Schools](https://www.w3schools.com/python/default.asp)
+
+-> [Python - Docs](https://docs.python.org/3/)
+
 ## 🛠️ Instalando e Rodando
 
 Relatório explicado a execução do programa [Passo a Passo - Google Colaboratory](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx)
