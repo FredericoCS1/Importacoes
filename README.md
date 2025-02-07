@@ -13,7 +13,7 @@ O objetivo deste repositório:
 
 Este repositório será usado no site: [Google Colab](https://colab.research.google.com/)
 
-O arquivo bruto 'Relatório de Importação', que pode estar com outro nome, que será disponibilizado por fora.
+O arquivo bruto 'Relatório de Importação', que pode estar com outro nome.
 
 Os Colabs, situados na pasta 'Notebooks' aqui no repositório.
 
@@ -28,6 +28,10 @@ Sites para ajuda:
 -> [Python - 3Schools](https://www.w3schools.com/python/default.asp)
 
 ## 🛠️ Instalando e Rodando
+
+Para rodar o programa, será necessário o arquivo bruto 'Relatório de Importação', este será disponibilizado por fora.
+
+Os arquivos em 'Importadores' devem ser verificados, para isso, enviar esses ao responsável que disponibilizou o arquivo bruto 'Relatório de Importação'.
 
 Relatório explicado a execução do programa [Passo a Passo - Google Colaboratory](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx)
 
