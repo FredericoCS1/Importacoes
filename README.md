@@ -13,7 +13,7 @@ O objetivo deste repositório:
 
 Este repositório será usado no site: [Google Colab](https://colab.research.google.com/)
 
-O arquivo bruto 'Relatório de Importação', que pode estar com outro nome.
+O arquivo bruto 'Relatório de Importação', que pode estar com outro nome, que será disponibilizado por fora.
 
 Os Colabs, situados na pasta 'Notebooks' aqui no repositório.
 
