@@ -54,15 +54,18 @@ Para realizar o deploy siga os seguintes passos:
    
    -> Baixar o arquivo que será utilizado, e enviar ao responsável que disponibilizou o arquivo bruto.
    
-3. Atualizar Github:
+3. Atualização e Commit no Github:
 
-   -> Caso alterações tenham sido feitas nos arquivos 'importadores'.
+   -> Caso alterações tenham sido feitas nos arquivos 'importadores', será necessário atualizar os que já existem na pasta 'Importadores'.
    
-   -> Acessar a pasta 'Importadores', excluir os arquivos antigos e subir os novos.
-   
-   -> Atenção: não mudar o nome dos arquivos xlsx.
-   
-   -> Ao final, fazer commit dos arquivos dentro da pasta 'Importadores'.
+   -> Acessando 1 arquivo por vez, excluir o antigo e subir um novo.
+
+   -> Para isso, ir em 'Add file' e depois em 'Upload files'.
+
+   -> Subir o novo xlsx, no main branch, com o nome Capacetes de Moto, Capacetes de Bicicleta, ou Capacetes Extras, dependendo de qual arquivo está sendo atualizado.
+
+   -> Por fim, dar o 'Commit changes'.
+
 
 ## 📜 Licença 
 
