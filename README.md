@@ -37,44 +37,32 @@ Relatório explicado a execução do programa [Passo a Passo - Google Colaborato
 
 ## 📫 Contribuindo
 
-Para contribuir, siga estas etapas:
-
-1. Para rodar o programa, será necessário o arquivo bruto 'Relatório de Importação', este será disponibilizado por fora.
-2. Verificar os arquivos, xlsx, na pasta 'Importadores', toda vez que um novo 'Relatório de Importação' for analizado.
-   
-4. O arquivo, xlsx, deve ser baixado e alterado.
-
-5. 
-
-Os arquivos em 'Importadores' devem ser verificados, para isso, enviar esses ao responsável que disponibilizou o arquivo bruto 'Relatório de Importação'.
 
 ## 🏁 Realizando Deploy
 
-Para realizar o deploy da aplicação em produção siga os seguintes passos:
+Para realizar o deploy siga os seguintes passos:
 
 1. Arquivos de Importadores:
    
    -> Dentro do repositório 'Importacoes', acessar a pasta 'Importadores'.
    
-   -> Existem 3 arquivos, xlsx, que são usados no programa do Colab.
+   -> Existem arquivos, xlsx, que serão usados no programa do Colab.
    
-   -> Para cada novo 'Relatório de Importação', os arquivos de 'Importadores' devem ser verificados.
+   -> Para cada novo arquivo bruto, os arquivos 'importadores' devem ser verificados.
    
-3. Baixar os arquivos:
+2. Baixar os arquivos:
    
-   -> Baixar o arquivo que será utilizado, e mudar caso necessário.
+   -> Baixar o arquivo que será utilizado, e enviar ao responsável que disponibilizou o arquivo bruto.
    
-   -> A mudança será feita no Excel, manualmente.
-   
-5. Atualizar Github:
+3. Atualizar Github:
 
-   -> Os arquivos modificados devem substituir os antigos.
+   -> Caso alterações tenham sido feitas nos arquivos 'importadores'.
    
-   -> Acessar a pasta 'Importadores' excluir o arquivo antigo e subir o novo.
+   -> Acessar a pasta 'Importadores', excluir os arquivos antigos e subir os novos.
    
-   -> Atenção: não mudar o nome do arquivo xlsx.
+   -> Atenção: não mudar o nome dos arquivos xlsx.
    
-   -> Ao final, fazer commit nos arquivos dentro da pasta 'Importadores'.
+   -> Ao final, fazer commit dos arquivos dentro da pasta 'Importadores'.
 
 ## 📜 Licença 
 
