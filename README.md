@@ -7,7 +7,7 @@ O objetivo deste repositório:
 
 -> Armazenar arquivos excel(.xlsx), dos Importadores de Capacete de Moto, Bicicleta e Extras.
 
--> Armazenar os Colabs, Importação Capecete Moto e Importação Capacete Bicicleta.
+-> Armazenar os Colabs, Importação Capacete Moto e Importação Capacete Bicicleta.
  
 ## 💻 Pré Requisitos
 
@@ -33,7 +33,7 @@ Baixar o arquivo bruto na máquina e utilizar no Colab.
 
 Arquivos em 'Importadores', xlsx, verificados para serem usados no código.
 
-[Relatório](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx) explicando a execução do programa passo a passo no Google Colaboratory. 
+Relatório explicando a execução do programa [passo a passo](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx) no Google Colaboratory. 
 
 ## 📫 Contribuindo
 
@@ -58,11 +58,13 @@ Para realizar o deploy siga os seguintes passos:
 
    -> Caso alterações tenham sido feitas nos arquivos 'importadores', será necessário atualizar os que já existem na pasta 'Importadores'.
    
-   -> Acessando 1 arquivo por vez, excluir o antigo e subir um novo.
+   -> Exclua o arquivo antigo e faça o upload do novo, um por vez.
 
    -> Para isso, ir em 'Add file' e depois em 'Upload files'.
 
-   -> Subir o novo xlsx, no main branch, com o nome Capacetes de Moto, Capacetes de Bicicleta, ou Capacetes Extras, dependendo de qual arquivo está sendo atualizado.
+   -> Fazer o upload do novo arquivo .xlsx no branch principal (main), nomeando-o conforme a categoria: 'Capacetes de Moto', 'Capacetes de Bicicleta' ou 'Capacetes Extras'.
+
+   -> Mensagem do commit: 'Atualização dos dados de importadores - Capacetes de Moto'.
 
    -> Por fim, dar o 'Commit changes'.
 
