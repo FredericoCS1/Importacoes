@@ -13,7 +13,7 @@ O objetivo deste repositório:
 
 Este repositório será usado no site: [Google Colab](https://colab.research.google.com/)
 
-O arquivo bruto 'Relatório de Importação', que pode estar com outro nome.
+O arquivo bruto 'Relatório de Importação' pode ser encontrado com um nome diferente, dependendo da versão.
 
 Os Colabs, situados na pasta 'Notebooks' aqui no repositório.
 
@@ -33,7 +33,7 @@ Baixar o arquivo bruto na máquina e utilizar no Colab.
 
 Arquivos em 'Importadores', xlsx, verificados para serem usados no código.
 
-Relatório explicado a execução do programa [Passo a Passo - Google Colaboratory](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx)
+[Relatório](https://github.com/starplast/Importacoes/blob/main/Passo%20a%20Passo%20-%20Google%20Colaboratory.docx) explicando a execução do programa passo a passo no Google Colaboratory. 
 
 ## 📫 Contribuindo
 
